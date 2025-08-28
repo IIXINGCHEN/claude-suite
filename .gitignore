@@ -34,6 +34,7 @@ AGENTS.md
 
 # Claude project-specific files
 .claude/
+.augment/
 
 # Provider configurations (contains sensitive API keys)
 providers.json
